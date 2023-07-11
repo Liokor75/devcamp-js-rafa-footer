@@ -1,5 +1,5 @@
 {
-  "name": "devcamp-js-footer",
+  "name": "devcamp-rafa-js-footer",
   "version": "0.1.0",
   "description": "Este modulo permite generar un pie de pagina dinamico generado para aplicaciones JS con un año y nombre actualizado.",
   "main": "index.js",
