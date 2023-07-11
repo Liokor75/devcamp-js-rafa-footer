@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "Este modulo permite generar un pie de pagina dinamico generado para aplicaciones JS con un año y nombre actualizado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liokor75/devcamp-js-rafa-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Rafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liokor75/devcamp-js-rafa-footer/issues"
+  },
+  "homepage": "https://github.com/Liokor75/devcamp-js-rafa-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
